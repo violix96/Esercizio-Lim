@@ -1,0 +1,93 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.container{
+    width: 800px;
+    height: 550px;
+    margin: auto;
+    background-color: rgba(0, 0, 0,0.5);
+    text-align: center;
+    padding: 5px;
+    border-radius: 20px;
+    
+   
+}
+
+.logo{
+    width: 220px;
+    margin-top: 20px;
+}
+
+.logo-text{
+    color: rgba(0, 255, 0, 0.8);
+   
+}
+
+.rettangolov{
+    width: 700px;
+    height: 20px;
+    background-color: rgb(17, 255, 17);
+    border-radius: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 10px;
+    margin-top: 1 px;
+    
+
+    
+
+    
+}
+
+.ceck-box{
+    display: inline-block;
+    margin-right: 550px;
+    margin-top: 10px;
+    color: white;
+    
+    
+}
+
+.textsize{
+    font-size: small;
+    color: white;
+    margin-right: 510px;
+    
+}
+
+.stato-carica{
+    font-size: small;
+    color: white;
+    margin-right: 680px;
+   
+}
+
+.rettangolo-arancione{
+    width: 300px;
+    height: 20px;
+    background-color: orange;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.rettangolo-verde{
+    width: 500px;
+    height: 20px;
+    background-color: rgb(17, 255, 17);
+    border-radius: 5px;
+    margin-left: 30px;
+
+}
+
+
+.rettangolo-rosso{
+    width: 80px;
+    height: 20px;
+    background-color: red;
+    border-radius: 5px;
+    margin-left: 30px;
+
+
+}
